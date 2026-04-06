@@ -1,5 +1,5 @@
 import turtle
-turtle.Screen().bgcolor("orange")
+turtle.Screen.bgcolor("orange")
 turtle.Screen().setup(300,400)
 polygon = turtle.Turtle()
 
